@@ -1,6 +1,6 @@
 ## IoT-Website App
 
-```markdown
+
 # IoT Website - Smart Device Management Platform
 
 ![IoT Website](https://img.shields.io/badge/IoT-Platform-blue)
@@ -152,56 +152,9 @@ Viewing Analytics
 3. Choose visualization type
 4. Export data if needed
 
-🤝 Contributing
-
-We welcome contributions! Please follow these steps:
-
-1. Fork the project
-2. Create a feature branch (git checkout -b feature/AmazingFeature)
-3. Commit your changes (git commit -m 'Add some AmazingFeature')
-4. Push to the branch (git push origin feature/AmazingFeature)
-5. Open a Pull Request
-
-Development Guidelines
-
-· Follow consistent coding style
-· Write meaningful commit messages
-· Add tests for new features
-· Update documentation accordingly
-
 📝 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-🐛 Troubleshooting
-
-Common Issues
-
-Connection to MongoDB fails
-
-· Ensure MongoDB service is running
-· Check connection string in .env file
-· Verify network connectivity
-
-Real-time updates not working
-
-· Check WebSocket connection status
-· Verify Socket.io configuration
-· Inspect browser console for errors
-
-Authentication issues
-
-· Clear browser cache and cookies
-· Verify JWT secret in environment variables
-· Check token expiration settings
-
-📞 Support
-
-For support and questions:
-
-· Create an Issue
-· Email: [Your Email]
-· Documentation: Project Wiki
 
 🔮 Future Enhancements
 
@@ -229,4 +182,4 @@ Built with ❤️ by Omkar Yelsange
 ⭐ Star this repo if you found it helpful!
 
 </div>
-```
+
