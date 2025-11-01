@@ -59,12 +59,9 @@ A comprehensive web-based platform for managing and monitoring IoT devices in re
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/OmkarYelsange/IoT-Website.git
+   git clone
+https://github.com/OmkarYelsange/IoT-Website.git
    cd IoT-Website
-```
-
-1. Install dependencies
-   ```bash
    npm install
    ```
 2. Environment Configuration Create a .env file in the root directory:
