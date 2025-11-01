@@ -64,8 +64,10 @@ https://github.com/OmkarYelsange/IoT-Website.git
    cd IoT-Website
    npm install
    ```
+
 2. Environment Configuration Create a .env file in the root directory:
-   ```env
+   ```
+env
    PORT=3000
    MONGODB_URI=mongodb://localhost:27017/iot-website
    JWT_SECRET=your_jwt_secret_key
