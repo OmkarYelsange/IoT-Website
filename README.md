@@ -63,35 +63,33 @@ A comprehensive web-based platform for managing and monitoring IoT devices in re
 git clone https://github.com/OmkarYelsange/IoT-Website.git 
 cd IoT-Website
 npm install
-
 ```
 
 2. Environment Configuration Create a .env file in the root directory:
 
 ```
 env
-PORT=3000  MONGODB_URI=mongodb://localhost:27017/iot-website
+PORT=3000  
+MONGODB_URI=mongodb://localhost:27017/iot-website
 JWT_SECRET=your_jwt_secret_key
 NODE_ENV=development
-
 ```
 
 3. Database Setup Ensure MongoDB is running on your system:
 
 ```
 mongod
-
 ```
 
 4. Start the application
 
-   ```bash
-   # Development mode
-   npm run dev
+```
+# Development mode
+npm run dev
    
-   # Production mode
-   npm start
-   ```
+# Production mode
+npm star
+```
 
 5. Access the application Open your browser and navigate to http://localhost:3000
 
